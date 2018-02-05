@@ -1,6 +1,7 @@
 JSNES
 =====
 [![Build Status](https://travis-ci.org/DroobledoresYT/jsnes.svg?branch=master)](https://travis-ci.org/DroobledoresYT/jsnes)
+
 A JavaScript NES emulator.
 
 It's a library that works in both the browser and Node.js. The browser UI is available at [https://github.com/bfirsh/jsnes-web](https://github.com/bfirsh/jsnes-web).
