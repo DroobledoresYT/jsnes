@@ -9,9 +9,9 @@ Installation
 ------------
 
 For Node.js or Webpack:
-
-    $ npm install jsnes
-
+```bash  
+$ npm install jsnes
+```
 (Or `yarn add jsnes`.)
 
 In the browser, you can use [unpkg](https://unpkg.com):
@@ -55,7 +55,7 @@ Build
 -----
 
 To build a distribution:
-
-    $ yarn run build
-
+```bash
+$ yarn run build
+```
 This will create `dist/jsnes.min.js`.
