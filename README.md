@@ -1,6 +1,7 @@
 JSNES
 =====
 [![Build Status](https://travis-ci.org/DroobledoresYT/jsnes.svg?branch=master)](https://travis-ci.org/DroobledoresYT/jsnes)
+[![Coverage Status](https://coveralls.io/repos/github/DroobledoresYT/jsnes/badge.svg?branch=master)](https://coveralls.io/github/DroobledoresYT/jsnes?branch=master)
 
 A JavaScript NES emulator.
 
